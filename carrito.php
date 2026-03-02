@@ -53,7 +53,10 @@
       <div class="resumen-row"><span>Subtotal</span><span id="res-sub">$0.00</span></div>
       <div class="resumen-row"><span>Envío</span><span>$99.00</span></div>
       <div class="resumen-row total"><span>Total</span><span id="res-total">$99.00</span></div>
-      <button class="checkout-btn" onclick="checkout()">Finalizar compra</button>
+     <button class="checkout-btn" 
+        onclick="window.location.href='https://porto2710-lab.github.io/pago/';">
+    Finalizar compra
+</button>
     </div>
   </div>
 </main>
